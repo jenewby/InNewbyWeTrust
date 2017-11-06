@@ -16,5 +16,9 @@ namespace BestConsoleEver
             
             //new feature code goes here
         }
+
+        static void DoIt(int taykay) {
+
+        }
     }
 }
