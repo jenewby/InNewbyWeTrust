@@ -18,6 +18,8 @@ namespace BestConsoleEver
         }
 
         static void DoIt(int taykay) {
+            var aye = "baby baby";
+            var too = 99;e
 
         }
     }
