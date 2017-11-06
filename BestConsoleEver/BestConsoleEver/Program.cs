@@ -12,6 +12,7 @@ namespace BestConsoleEver
         {
             //what the hotdog
             //code was edited  in github b
+            // this mofo i added from VS
         }
     }
 }
