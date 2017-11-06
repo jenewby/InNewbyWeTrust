@@ -10,6 +10,7 @@ namespace BestConsoleEver
     {
         static void Main(string[] args)
         {
+            //what the hotdog
         }
     }
 }
